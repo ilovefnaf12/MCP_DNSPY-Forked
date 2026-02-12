@@ -1,0 +1,17 @@
+﻿# Build outputs
+bin/
+obj/
+**/bin/
+**/obj/
+
+# Runtime outputs
+tools/Il2CppDumper/output/
+publish/
+publish_ghidra/
+publish_bak_*/
+
+# Local IDE and temp files
+.vs/
+*.user
+*.suo
+*.tmp
